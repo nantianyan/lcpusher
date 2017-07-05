@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LCPusher</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_capture">Publish</string>
+    <string name="btn_stop">Stop</string>
+    <string name="version_textview"> v.0.0.1 </string>
+</resources>
